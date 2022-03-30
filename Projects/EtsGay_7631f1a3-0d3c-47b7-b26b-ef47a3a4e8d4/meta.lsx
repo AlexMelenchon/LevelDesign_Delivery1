@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="6" build="0" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="Module" value="7631f1a3-0d3c-47b7-b26b-ef47a3a4e8d4" type="23" />
+            <attribute id="Name" value="EtsGay" type="23" />
+            <attribute id="Type" value="Add-on" type="23" />
+            <attribute id="UUID" value="9d809a76-de49-4c98-b75d-df0de8dd8ae2" type="23" />
+        </node>
+    </region>
+</save>
